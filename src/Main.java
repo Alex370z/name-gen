@@ -29,7 +29,7 @@ public class Main {
         } else {
             fullName = firstName + middleName + "," + lastName + " " + suffix;
         }
-        System.out.println("Hello, " + fullName + "!"); // Full greetings
+        System.out.println("Hello, " + fullName + "!"); // Full greetings of name
 
     }
 }
